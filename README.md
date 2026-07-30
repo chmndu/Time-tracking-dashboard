@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-time-tracking-dashboard-using-css-grid-B1UmD4JaRq)
-- Live Site URL: [Live site URL here](https://chamindud.github.io/Time-tracking-dashboard/)
+- Live Site URL: [Live site URL here](https://chmndu.github.io/Time-tracking-dashboard/)
 
 ## My process
 
@@ -109,5 +109,5 @@ I'm looking to improve my CSS & JavaScript knowledge to design more unique and n
 
 ## Author
 
-- Frontend Mentor - [@ChaminduD](https://www.frontendmentor.io/profile/ChaminduD)
+- Frontend Mentor - [@chmndu](https://www.frontendmentor.io/profile/chmndu)
 - LinkedIn - [Chamindu Dahanayaka](https://www.linkedin.com/in/chamindudahanayaka/)
